@@ -3,8 +3,8 @@
 
 ## EFI
 ```text
-引导 : opencore
-系统版本 : BigSur
+引导 : opencore(以前的引导没备份,将就着用吧)
+系统版本 : BigSur(不要问我具体版本,我这人强迫症,逢新必更包括beta版本)
 ```
 
 ## 注意事项
