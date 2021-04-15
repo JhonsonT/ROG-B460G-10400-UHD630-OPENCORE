@@ -1,7 +1,7 @@
 # ROG-B460G-10400-UHD630-OPENCORE-BIGSUR
 黑苹果oc配置文件分享
 
-# 系统截图
+## 系统截图
 ![avatar](https://github.com/JhonsonT/ROG-B460G-10400-UHD630-OPENCORE-BIGSUR/blob/main/images/system.png)
 
 ## EFI
