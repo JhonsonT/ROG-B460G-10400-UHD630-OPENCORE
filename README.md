@@ -6,13 +6,38 @@
 
 ## EFI
 ```text
-引导 : opencore(以前的引导没备份,将就着用吧)
-系统版本 : BigSur(不要问我具体版本,我这人强迫症,逢新必更包括beta版本)
+引导 : opencore(我有时间就会更新)
+系统版本 : BigSur(强迫症,逢新beta版必更)
+```
+
+## BIOS设置
+
+```text
+仅针对当前主板,主板有搜索功能,直接搜英文即可,例如EHCI/XHCI Hand-off,直接搜索hand
+```
+
+### Disable(禁用)
+```text
+Fast Boot(快速启动)
+Secure Boot(安全启动)
+Serial/COM Port(串口)
+CSM
+Intel SGX
+CFG Lock(主板bios中无设置,默认关闭)
+```
+
+### Enable(启用)
+```text
+Above 4G decoding(4G解码)
+Hyper-Threading(超线程)
+EHCI/XHCI Hand-off(接管EHCI/XHCI)
+SATA Mode: AHCI(SATA硬盘模式)
 ```
 
 ## 注意事项
 ```text
-我用的是4k60hz的高分屏 + UHD630 dp口输出，如果使用hdmi/dvi接口，请自行打补丁，vga用户"建议"洗洗睡，别折腾了
+1. SSDT用的不是通用版本，非相同主板请勿抄作业
+2. 我用的是4k60hz的高分屏 + UHD630 dp口输出，如果使用hdmi/dvi接口，请自行打补丁，vga用户"建议"洗洗睡，别折腾了
 ```
 
 ## 联系方式
