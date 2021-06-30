@@ -120,7 +120,7 @@
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>EQAAAA==</data>
+				<data>FAAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -369,7 +369,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<false/>
+			<true/>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
@@ -441,7 +441,7 @@
 			<key>ScanPolicy</key>
 			<integer>17760515</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -451,7 +451,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Auxiliary</key>
-				<false/>
+				<true/>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -490,7 +490,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1</string>
+				<string></string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -566,21 +566,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C07817902QXKXPGFB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>npuUrSFD</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac20,1</string>
+			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C07WM0JPJYVX</string>
 			<key>SystemUUID</key>
-			<string>83746820-DD5D-436C-A96F-6B9187AD2143</string>
+			<string>A2B985CF-EAD6-4F1D-9AA6-DEF0F29A17D4</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

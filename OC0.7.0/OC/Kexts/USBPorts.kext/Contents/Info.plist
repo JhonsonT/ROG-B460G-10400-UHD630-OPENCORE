@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>iMac20,1-PXSX</key>
+		<key>Macmini8,1-PXSX</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -71,9 +71,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac20,1</string>
+			<string>Macmini8,1</string>
 		</dict>
-		<key>iMac20,1-XHC</key>
+		<key>Macmini8,1-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -164,15 +164,6 @@
 						<key>port</key>
 						<data>CwAAAA==</data>
 					</dict>
-					<key>HS12</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>HS12</string>
-						<key>port</key>
-						<data>DAAAAA==</data>
-					</dict>
 					<key>SS03</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -221,7 +212,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac20,1</string>
+			<string>Macmini8,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
