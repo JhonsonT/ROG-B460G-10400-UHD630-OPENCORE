@@ -123,6 +123,8 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
+				<key>AAPL,slot-name</key>
+				<data>AAAACgAAAA==</data>
 				<key>device-id</key>
 				<data>mz4AAA==</data>
 				<key>device_type</key>
