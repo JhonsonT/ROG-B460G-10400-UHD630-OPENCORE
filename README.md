@@ -41,5 +41,5 @@ SATA Mode: AHCI(SATA硬盘模式)
 3. 使用免驱博通无线网卡94360cd , 使用其他网卡请自行添加网卡驱动,eg: [intel无线网卡驱动链接](https://openintelwireless.github.io/itlwm/)
 4. efi内放入的是通用usb驱动，11.2及以下系统可以直接使用，升级系统前请自行定制usb驱动后再升级
 5. 请使用与当前oc版本相同的Opencore configuration进行修改配置，否则造成的文件结构错误会让你明白什么叫做残忍，当然你也可以使用其他工具: xcode，[ProperTree](https://github.com/corpnewt/ProperTree)，官网推荐[OCAT](https://github.com/ic005k/QtOpenCoreConfig)
-6. 关于HEVC硬件，BIGSUR系统(即macos 11)以后见下图
+6. 关于HEVC硬件，BIGSUR(即macos 11)之后版本系统,见下图
 ![avatar](https://github.com/JhonsonT/ROG-B460G-10400-UHD630-OPENCORE/blob/main/images/HEVC.jpg)
