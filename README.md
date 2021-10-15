@@ -43,3 +43,4 @@ SATA Mode: AHCI(SATA硬盘模式)
 5. 请使用与当前oc版本相同的Opencore configuration进行修改配置，否则造成的文件结构错误会让你明白什么叫做残忍，当然你也可以使用其他工具: xcode，[ProperTree](https://github.com/corpnewt/ProperTree)，官网推荐[OCAT](https://github.com/ic005k/QtOpenCoreConfig)
 6. 关于HEVC硬件，BIGSUR(即macos 11)之后版本系统,见下图
 ![avatar](https://github.com/JhonsonT/ROG-B460G-10400-UHD630-OPENCORE/blob/main/images/HEVC.jpg)
+7. 纯核显可选择机型有Macmini8,1 和 iMac19,1 和 iMac20,1 ，建议使用iMac19,1，其他两个机型有T2锁，更新beta系统偶尔需要改securebootmodel，改来改去懒得折腾，我放弃了
