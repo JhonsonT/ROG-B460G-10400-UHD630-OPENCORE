@@ -2,8 +2,7 @@
 黑苹果oc配置文件分享
 
 ## 一、系统截图
-![avatar](https://gitee.com/JhonsonT/ROG-B460G-10400-UHD630-OPENCORE/blob/main/images/system.png)
-https://github.com/JhonsonT/ROG-B460G-10400-UHD630-OPENCORE/blob/main/images/system.png
+![avatar](https://github.com/JhonsonT/ROG-B460G-10400-UHD630-OPENCORE/blob/main/images/system.png)
 
 ## 二、EFI
 ```text
