@@ -1,28 +1,6 @@
-.idea/**
-.directory
-.Trash-*
-.nfs*
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
-*.stackdump
-[Dd]esktop.ini
-$RECYCLE.BIN/
-*.lnk
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+**/.idea
+**/.Trash-*
+**/[Dd]esktop.ini
+**/$RECYCLE.BIN/
+**/.DS_Store
+**/._*
