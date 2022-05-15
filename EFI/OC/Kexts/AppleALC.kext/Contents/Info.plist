@@ -3533,6 +3533,36 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
+					<string>savvamitrofanov - Realtek ALC257 for Lenovo Thinkpad T490</string>
+					<key>CodecID</key>
+					<integer>283902551</integer>
+					<key>ConfigData</key>
+					<data>
+					ASccYAEnHQEBJx6gAScfkAFHHBABRx0BAUce
+					EAFHH5ABRwwCAZccgAGXHRABlx6BAZcfBAIX
+					HEACFx1wAhceIQIXHwECFwwCATcc8AE3HQAB
+					Nx4AATcfQAGHHPABhx0AAYceAAGHH0ABpxzw
+					AacdAAGnHgABpx9AAbcc8AG3HQABtx4AAbcf
+					QAG3DAIB1xzwAdcdAAHXHgAB1x9AAecc8AHn
+					HQAB5x4AAecfQA==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>97</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AUcMAgG3DAICFwwCAYcHJQGXByUBpwcl
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
 					<string>Realtek ALC257 for Lenovo XiaoXin Pro 2019(81XB/81XD) by DalianSky</string>
 					<key>CodecID</key>
 					<integer>283902551</integer>
