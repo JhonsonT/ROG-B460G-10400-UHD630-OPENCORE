@@ -756,6 +756,30 @@
                     <key>Path</key>
                     <string>OpenCanopy.efi</string>
                 </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>LoadEarly</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>OpenRuntime 2.efi</string>
+                </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>LoadEarly</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>OpenCanopy 2.efi</string>
+                </dict>
             </array>
             <key>Input</key>
             <dict>
