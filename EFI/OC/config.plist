@@ -126,6 +126,17 @@
                     <key>layout-id</key>
                     <data>FAAAAA==</data>
                 </dict>
+                <key>PciRoot(0x0)/Pci(0x1F,0x6)</key>
+                <dict>
+                    <key>AAPL,slot-name</key>
+                    <string>Internal@0,31,6</string>
+                    <key>device_type</key>
+                    <string>Ethernet controller</string>
+                    <key>mausi-force-wol</key>
+                    <string>1</string>
+                    <key>model</key>
+                    <string>Ethernet Connection (12) I219-V</string>
+                </dict>
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
@@ -187,7 +198,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.6 | Audio patches</string>
+                    <string>V1.7.7 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
