@@ -4,7 +4,7 @@
 ## EFI
 ```text
 引导 : opencore(我有时间就会更新)
-系统版本 : MacOS13 Ventura(强迫症,逢新beta版必更)
+系统版本 : MacOS13 Ventura(我有时间就会更新)
 ```
 
 ## BIOS设置
