@@ -4,7 +4,7 @@
 ## EFI
 ```text
 引导 : opencore 0.9.1
-系统版本 : MacOS13 Ventura 13.3 (b) Beta版(22E7752300g)
+系统版本 : MacOS13 Ventura 13.3 Beta版(22E5246b)
 ```
 
 ## BIOS设置
