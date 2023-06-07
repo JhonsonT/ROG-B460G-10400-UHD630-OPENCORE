@@ -3,8 +3,9 @@
 
 ## EFI
 ```text
-引导 : opencore 0.9.1
-系统版本 : MacOS13 Ventura 13.4 Beta版(22F5027f)
+引导 : opencore 0.9.3
+系统版本 : MacOS Sonoma 14.0 Beta版(23A5257q) 
+备注: 14.0 beta1的白果网卡 Wi-Fi驱动移除了(挂了) , 蓝牙正常
 ```
 
 ## BIOS设置
